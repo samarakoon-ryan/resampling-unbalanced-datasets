@@ -1,1 +1,1 @@
-# resampling-unbalanced-datasets
+# Resampling Unbalanced Datasets using the Credit Card Fraud Dataset
